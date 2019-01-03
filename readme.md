@@ -5,6 +5,11 @@ Hexthingy is a small program designed to display hexagon grids (like those used 
 
 I created Hexthingy in the hopes that it would be useful to map designers during the research stage of wargame design.  Use it to brainstorm different map scales, positions and orientations. Then zoom in on each hex, examine its contents, and transfer the results to your game.
 
+Obtaining
+---------
+
+Clone the repository or download it as a .zip file and build the solution in Visual Studio, or (if you feel like trusting an anonymous stranger on the internet) I've shared a [Windows binary file](https://drive.google.com/open?id=1Fb4GG01bL4xLriSYI9bhcSQZh8IcJAFX) - this was built against .net 4.5, so if you're getting version problems, try building it yourself.
+
 Instructions
 ------------
 
